@@ -1,4 +1,4 @@
-# FlowersIncChallenge
+<!-- # FlowersIncChallenge
 #Coding Challenge for 1-800 Flowers Inc
 Pls time yourself 24 hours for completion of this test - it can be started whenever but please submit it within 24 hours with a git link.
  
@@ -21,4 +21,5 @@ Requirements:
 Use React, Redux with Sagas and Node Express Server
 Include Unit Tests for frontends and backends
 All dependencies should be publicly available or properly included with the project and referenced within the package.json
-Be creative, have fun, and may the force be with you
+Be creative, have fun, and may the force be with you -->
+
